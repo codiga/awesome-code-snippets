@@ -35,5 +35,6 @@ To contribute and add tools, please make a pull request.
 
 ## Code Snippets Search
 
- - [Codiga Hub](https://app.codiga.io/hub]
+ - [Codiga Hub](https://app.codiga.io/hub)
+ - [GitHub Gist](https://gist.github.com/)
  
