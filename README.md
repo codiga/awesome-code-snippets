@@ -8,8 +8,8 @@ To contribute and add tools, please make a pull request.
 
 ## Code Snippets Manager
 
- - [Codiga](https://github.com/codiga/code-snippets-manager) - Windows, Mac OS, Linux
- - [Snipit](https://snipit.io/)
+ - [Codiga](https://github.com/codiga/code-snippets-manager) - Windows, Mac OS, Linux and [web](https://app.codiga.io/hub)
+ - [Snipit](https://snipit.io/) - Web Only
  - [SnippetsLab](https://apps.apple.com/us/app/snippetslab/id1006087419?mt=12) - Mac OS
 
 
