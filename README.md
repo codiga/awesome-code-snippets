@@ -1,3 +1,5 @@
+[Datadog acquired Codiga](https://www.codiga.io/blog/codiga-joins-datadog/). This repository is no longer active.
+
 # Awesome Code Snippets
 
 
